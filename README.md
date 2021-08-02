@@ -78,7 +78,7 @@ Tensorflow.
 
 If you use or discuss this dataset in your work, please cite our paper:
 
-```json
+```
 @misc{bai2021uibert,
       title={UIBert: Learning Generic Multimodal Representations for UI Understanding},
       author={Chongyang Bai and Xiaoxue Zang and Ying Xu and Srinivas Sunkara and Abhinav Rastogi and Jindong Chen and Blaise Aguera y Arcas},
